@@ -1,0 +1,17 @@
+ body {
+    background-image: url(vkfb.png);
+	background-size: 15.4% 15.4%;
+	background-color: #95b3ff;
+	 margin: 0px;
+	 padding: 0px;
+}
+
+ .mainBlock{
+	 width:60%;
+	 height:100%;
+	 margin-left: 20%;
+	 background-color: white;
+	 border: 1px solid black;
+	 box-sizing: border-box;
+	 opacity: 0.7;
+ }
